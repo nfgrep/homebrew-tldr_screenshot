@@ -1,4 +1,4 @@
-# tldr-screenshot
+# tldr_screenshot
 Gives you a TLDR of a screenshot containing text
 
 # Usage

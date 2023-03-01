@@ -2,6 +2,8 @@ PATH
   remote: .
   specs:
     tldr-screenshot (0.1.0)
+      rtesseract
+      ruby-openai
 
 GEM
   remote: https://rubygems.org/

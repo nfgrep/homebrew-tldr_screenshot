@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require 'tldr'
+require 'dotenv/load'
+
+Tldr.new
